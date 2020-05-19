@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xgod.hackclub.cn/"/>
+  <link href="http://skid.hackclub.cn/"/>
   <updated>2020-05-19T08:14:32.447Z</updated>
-  <id>http://xgod.hackclub.cn/</id>
+  <id>http://skid.hackclub.cn/</id>
   
   <author>
     <name>SKid</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>工具篇之Metasploit</title>
-    <link href="http://xgod.hackclub.cn/2020/05/19/%E5%B7%A5%E5%85%B7%E7%AF%87%E4%B9%8BMetasploit/"/>
-    <id>http://xgod.hackclub.cn/2020/05/19/%E5%B7%A5%E5%85%B7%E7%AF%87%E4%B9%8BMetasploit/</id>
+    <link href="http://skid.hackclub.cn/2020/05/19/%E5%B7%A5%E5%85%B7%E7%AF%87%E4%B9%8BMetasploit/"/>
+    <id>http://skid.hackclub.cn/2020/05/19/%E5%B7%A5%E5%85%B7%E7%AF%87%E4%B9%8BMetasploit/</id>
     <published>2020-05-19T03:59:04.000Z</published>
     <updated>2020-05-19T08:14:32.447Z</updated>
     
@@ -39,9 +39,9 @@
     
     
     
-      <category term="工具" scheme="http://xgod.hackclub.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+      <category term="工具" scheme="http://skid.hackclub.cn/tags/%E5%B7%A5%E5%85%B7/"/>
     
-      <category term="msf" scheme="http://xgod.hackclub.cn/tags/msf/"/>
+      <category term="msf" scheme="http://skid.hackclub.cn/tags/msf/"/>
     
   </entry>
   
